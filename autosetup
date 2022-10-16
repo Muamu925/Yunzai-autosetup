@@ -1,0 +1,13 @@
+git clone --depth=1 https://gitee.com/guoba-yunzai/guoba-plugin.git ./plugins/Guoba-Plugin/
+pnpm install --filter=guoba-plugin
+git clone https://github.com/yoimiya-kokomi/miao-plugin.git ./plugins/miao-plugin/
+pnpm add image-size -w
+git clone https://gitee.com/Acceleratorsky/suiyue.git ./plugins/suiyue/
+git clone https://gitee.com/xianxincoder/xianxin-plugin.git ./plugins/xianxin-plugin/
+git clone https://github.com/go-farther-and-farther/lin ./plugins/lin-plugin/
+git clone https://github.com/liuly0322/l-plugin.git ./plugins/l-plugin/
+cd plugins/l-plugin
+pnpm install
+cd plugins/l-plugin
+pnpm install
+node app
