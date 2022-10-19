@@ -10,4 +10,6 @@ cd plugins/l-plugin
 pnpm install
 cd plugins/l-plugin
 pnpm install
+git clone https://gitee.com/Ctrlcvs/xiaoyao-cvs-plugin.git ./plugins/xiaoyao-cvs-plugin/
+cd Yunzai-bot
 node app
