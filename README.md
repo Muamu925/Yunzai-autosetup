@@ -1,4 +1,7 @@
 # Yunzai-autosetup
+
+##因cmd的指令现在无法直接运行bat文件，本程序暂时废弃
+
 半自动化Yunzai-bot配置
 
 由程序自动化完成Yunzai初始配置，请保证与Github链接畅通
